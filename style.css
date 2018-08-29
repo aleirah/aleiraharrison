@@ -1,10 +1,26 @@
 h1 {
   color: black;
 }
+h4 {
+  color: white;
+}
 .container {
   background-color: yellow;
 }
-
 body {
   background-color: pink;
+}
+ul {
+  list-style-type: bullet;
+  margin: 175px;
+  padding: 200px;
+  overflow: hidden;
+  color: white;
+}
+li {
+  float: right;
+}
+.navbar {
+  background-image: url("https://cdn.pixabay.com/photo/2016/07/05/06/21/butterfly-1498173_960_720.jpg");
+  
 }
