@@ -5,22 +5,28 @@ h4 {
   color: white;
 }
 .container {
-  background-color: yellow;
+  background-color: gold;
 }
 body {
   background-color: pink;
 }
 ul {
-  list-style-type: bullet;
-  margin: 175px;
-  padding: 200px;
-  overflow: hidden;
   color: white;
 }
-li {
+.navbar li {
   float: right;
+  margin-left: 15px;
 }
 .navbar {
   background-image: url("https://cdn.pixabay.com/photo/2016/07/05/06/21/butterfly-1498173_960_720.jpg");
-  
+  display: flex;
+  flex-wrap: wrap;
+}
+.login {
+  cursor: pointer;
+  float: right;
+}
+.login a: active {
+  position: relative;
+  top: 5px;
 }
