@@ -32,3 +32,20 @@ ul {
   top: 3px;
   position: relative;
 }
+
+.petal {
+  color: pink;
+}
+
+.sunshine {
+  color:  #fff4b3;
+}
+
+.soul {
+  color: black;
+}
+.main img {
+  height: 450px;
+  width: 600px;
+
+}
